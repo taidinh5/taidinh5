@@ -36,10 +36,10 @@
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**  
 
 ### **Data Warehouses**  
+- <img src="https://img.icons8.com/color/48/snowflake.png" width="20"/> **Snowflake**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google BigQuery**  
-- <img src="https://brandfetch.com/api/logo/download/logos/snowflake.com/primary/512" width="20"/> **Snowflake**  
 
 ### **Creative Software**  
-- <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
-- <img src="https://img.icons8.com/color/48/000000/google-slides.png" width="20"/> **Google Slides**  
-- <img src="[https://seeklogo.com/images/C/canva-logo-7680059E11-seeklogo.com.png](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)" width="20"/> **Canva**  
+- <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
+- <img src="https://img.icons8.com/color/48/google-slides.png" width="20"/> **Google Slides**  
+- <img src="https://img.icons8.com/color/48/canva.png" width="20"/> **Canva**  
