@@ -37,9 +37,9 @@
 
 ### **Data Warehouses**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google BigQuery**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Snowflake_Inc._logo.svg/1024px-Snowflake_Inc._logo.svg.png" width="20"/> **Snowflake**  
+- <img src="https://brandfetch.com/static/icons/snowflake.com/02d86922ff2294ebee7aa020f1c9e256.png" width="20"/> **Snowflake**  
 
 ### **Creative Software**
 - <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
 - <img src="https://img.icons8.com/color/48/000000/google-slides.png" width="20"/> **Google Slides**  
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="20"/> **Canva**
+- <img src="/mnt/data/9535014d-6001-4c4d-b406-af2b06f7e86e.png" width="20"/> **Canva**
