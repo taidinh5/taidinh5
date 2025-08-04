@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=League+Spartan&weight=700&size=30&duration=3000&pause=1000&color=46C3EB&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Tai;%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F+Welcome+to+my+portfolio!)](https://git.io/typing-svg)
+<img width="800" height="533" alt="image-from-rawpixel-id-6503727-png" src="https://github.com/user-attachments/assets/421c5bde-0c3d-473e-85c9-ca80654c5a0e" />
 
 
-![cute-rabbit-cottage-core-kitchen-desktop-wallpaper-4k](https://github.com/user-attachments/assets/4161c058-f506-4198-be2d-c8b589e154a8)
+
 
 
 
