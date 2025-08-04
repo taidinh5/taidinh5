@@ -28,19 +28,19 @@
 
 ### **Libraries**
 - <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" width="20"/> **Tidyverse**  
-- <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/data.table.png" width="20"/> **Data.table**  
+- <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **Data.table**  
 
 ### **Spreadsheets/Analytic Tools**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="20"/> **Microsoft Excel**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google Sheets**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="20"/> **Microsoft Excel**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" width="20"/> **Google Sheets**  
 - <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="20"/> **Tableau**  
 
 ### **Data Warehouses**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Google_Cloud_BigQuery.svg" width="20"/> **Google BigQuery**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Cloud_Logo.svg" width="20"/> **Google BigQuery**  
 - <img src="https://avatars.githubusercontent.com/u/8921116?s=200&v=4" width="20"/> **Snowflake**  
 
 ### **Creative Software**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="20"/> **Microsoft PowerPoint**  
-- <img src="https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_presentation_x32.png" width="20"/> **Google Slides**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282018–present%29.svg" width="20"/> **Microsoft PowerPoint**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Slides_logo_%282014-2020%29.svg" width="20"/> **Google Slides**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="20"/> **Canva**
 
