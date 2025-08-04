@@ -31,16 +31,16 @@
 - <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **Data.table**  
 
 ### **Spreadsheets/Analytic Tools**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="20"/> **Microsoft Excel**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Sheets_logo_%282014-2020%29.svg" width="20"/> **Google Sheets**  
-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="20"/> **Tableau**  
+- <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**  
+- <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="20"/> **Google Sheets**  
+- <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**  
 
 ### **Data Warehouses**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_BigQuery_Logo.png" width="20"/> **Google BigQuery**  
-- <img src="https://avatars.githubusercontent.com/u/8921116?s=200&v=4" width="20"/> **Snowflake**  
+- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-google-bigquery-a-fully-managed-and-serverless-data-warehouse-logo-shadow-tal-revivo.png" width="20"/> **Google BigQuery**  
+- <img src="https://seeklogo.com/images/S/snowflake-logo-BF5D1D5A55-seeklogo.com.png" width="20"/> **Snowflake**  
 
 ### **Creative Software**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282018–present%29.svg" width="20"/> **Microsoft PowerPoint**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Slides_logo.svg" width="20"/> **Google Slides**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="20"/> **Canva**
+- <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
+- <img src="https://img.icons8.com/color/48/000000/google-slides.png" width="20"/> **Google Slides**  
+- <img src="https://seeklogo.com/images/C/canva-logo-1BB8285348-seeklogo.com.png" width="20"/> **Canva**
 
