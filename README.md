@@ -36,11 +36,11 @@
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**  
 
 ### **Data Warehouses**
-- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-google-bigquery-a-fully-managed-and-serverless-data-warehouse-logo-shadow-tal-revivo.png" width="20"/> **Google BigQuery**  
-- <img src="https://seeklogo.com/images/S/snowflake-logo-BF5D1D5A55-seeklogo.com.png" width="20"/> **Snowflake**  
+- <img src="https://raw.githubusercontent.com/tailwindlabs/logos/main/logos/google-bigquery.svg" width="20"/> **Google BigQuery**  
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="20"/> **Snowflake**  
 
 ### **Creative Software**
 - <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
 - <img src="https://img.icons8.com/color/48/000000/google-slides.png" width="20"/> **Google Slides**  
-- <img src="https://seeklogo.com/images/C/canva-logo-1BB8285348-seeklogo.com.png" width="20"/> **Canva**
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="20"/> **Canva**
 
