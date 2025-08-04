@@ -6,7 +6,7 @@
 - <img src="https://img.icons8.com/color/48/open-book--v2.png" width="20"/> **B.S. in Business Administration**
 - <img src="https://img.icons8.com/color/48/briefcase.png" width="20"/> **Aspiring Data Analyst**
 - <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="20"/> **Passionate about the intersection between data, business, and storytelling**
-- <img src="https://img.icons8.com/color/48/dumbbell.png" width="20"/> **Hobbies:** Movies/Shows, Chess, Video Games, Sports, Esports, Tech Enthusiast, Weightlifting, Running, Boba/Matcha
+- <img src="https://img.icons8.com/color/48/dumbbell.png" width="20"/> **Hobbies:** Movies/Shows, Chess, Video Games, Sports, Esports, Tech Enthusiast, Weightlifting, Running, Boba/Matcha, Traveling
 
 <br>
 
