@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Tai</h1>
-![Typing message](https://img.shields.io/badge/-Hi%20there!%20I'm%20Tai-orange?style=for-the-badge&logo=github)
-![Typing message](https://img.shields.io/badge/-Welcome%20to%20my%20portfolio!-blue?style=for-the-badge&logo=github)
+<img src="https://your-typing-gif-link.gif" alt="Hi there! I'm Tai - Welcome to my portfolio!" width="400"/>
+
 
 
 ## 📌 About Me
