@@ -31,16 +31,16 @@
 - <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **Data.table**  
 
 ### **Spreadsheets/Analytic Tools**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="20"/> **Microsoft Excel**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" width="20"/> **Google Sheets**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="20"/> **Microsoft Excel**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Sheets_logo_%282014-2020%29.svg" width="20"/> **Google Sheets**  
 - <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="20"/> **Tableau**  
 
 ### **Data Warehouses**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Cloud_Logo.svg" width="20"/> **Google BigQuery**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_BigQuery_Logo.png" width="20"/> **Google BigQuery**  
 - <img src="https://avatars.githubusercontent.com/u/8921116?s=200&v=4" width="20"/> **Snowflake**  
 
 ### **Creative Software**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282018–present%29.svg" width="20"/> **Microsoft PowerPoint**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Slides_logo_%282014-2020%29.svg" width="20"/> **Google Slides**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Slides_logo.svg" width="20"/> **Google Slides**  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="20"/> **Canva**
 
