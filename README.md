@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there! I'm Tai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Tai;Welcome+to+my+portfolio!)](https://git.io/typing-svg)
 
 ## 📌 About Me
 
