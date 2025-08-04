@@ -10,7 +10,6 @@
 - <img src="https://img.icons8.com/color/48/new-post.png" width="20"/> **Reach out:** [taidinh5@outlook.com](mailto:taidinh5@outlook.com)
 - <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/taidinh5/)
 
----
 
 ## 🛠️ Tech Stack
 
