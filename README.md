@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Tai</h1>
+<h1 align="center">👋 Hi there, I'm Tai
+![Typing message](https://img.shields.io/badge/-Hi%20there!%20I'm%20Tai-orange?style=for-the-badge&logo=github)
+![Typing message](https://img.shields.io/badge/-Welcome%20to%20my%20portfolio!-blue?style=for-the-badge&logo=github)
+</h1>
 
 ## 📌 About Me
 
