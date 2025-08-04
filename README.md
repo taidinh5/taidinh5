@@ -21,25 +21,25 @@
 
 ## 🛠️ Tech Stack
 
-### **Computer Languages**
+### **Computer Languages**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**  
 - <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **R**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> **SQL**  
 
-### **Libraries**
+### **Libraries**  
 - <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" width="20"/> **Tidyverse**  
 - <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **Data.table**  
 
-### **Spreadsheets/Analytic Tools**
+### **Spreadsheets/Analytic Tools**  
 - <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**  
 - <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="20"/> **Google Sheets**  
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**  
 
-### **Data Warehouses**
+### **Data Warehouses**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google BigQuery**  
-- <img src="https://brandfetch.com/static/icons/snowflake.com/02d86922ff2294ebee7aa020f1c9e256.png" width="20"/> **Snowflake**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="20"/> **Snowflake**  
 
-### **Creative Software**
+### **Creative Software**  
 - <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="20"/> **Microsoft PowerPoint**  
 - <img src="https://img.icons8.com/color/48/000000/google-slides.png" width="20"/> **Google Slides**  
-- <img src="/mnt/data/9535014d-6001-4c4d-b406-af2b06f7e86e.png" width="20"/> **Canva**
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="20"/> **Canva**  
