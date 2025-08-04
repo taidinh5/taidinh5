@@ -1,5 +1,29 @@
 <h1 align="center">👋 Hi there, I'm Tai</h1>
-<img src="https://your-typing-gif-link.gif" alt="Hi there! I'm Tai - Welcome to my portfolio!" width="400"/>
+<h2>
+  <span class="typed-text"></span><span class="cursor">|</span>
+</h2>
+
+<style>
+  .typed-text::after {
+    content: "Hi there! I'm Tai\nWelcome to my portfolio!";
+    animation: typing 4s steps(40, end), blink 0.75s step-end infinite;
+    white-space: pre-line;
+    overflow: hidden;
+    border-right: 0.15em solid orange;
+    display: inline-block;
+    font-family: monospace;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+</style>
+
 
 
 
