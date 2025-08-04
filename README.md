@@ -10,12 +10,13 @@
 - <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="20"/> **Passionate about the intersection between data, business, and storytelling**
 - <img src="https://img.icons8.com/color/48/dumbbell.png" width="20"/> **Hobbies:** Movies/Shows, Chess, Video Games, Sports, Esports, Tech Enthusiast, Weightlifting, Running, Boba/Matcha
 
+<br>
 ## 📬 Connect With Me!
 
 - <img src="https://img.icons8.com/color/48/new-post.png" width="20"/> **Email:** [taidinh5@outlook.com](mailto:taidinh5@outlook.com)  
 - <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> **LinkedIn:** [linkedin.com/in/taidinh5](https://www.linkedin.com/in/taidinh5/)
 
-
+<br>
 ## 🛠️ Tech Stack
 
 ### **Computer Languages**  
