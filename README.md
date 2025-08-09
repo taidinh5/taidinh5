@@ -39,7 +39,8 @@
 ### **Spreadsheets/Analytic Tools**  
 - <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**  
 - <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="20"/> **Google Sheets**  
-- <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**  
+- <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**
+- <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20"/> **Power BI**   
 
 ### **Data Warehouses**  
 - <img src="https://img.icons8.com/color/48/snowflake.png" width="20"/> **Snowflake**  
