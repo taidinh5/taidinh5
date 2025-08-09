@@ -40,7 +40,7 @@
 - <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**  
 - <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="20"/> **Google Sheets**  
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**
-- <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20"/> **Power BI**   
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" width="20" alt="Microsoft Power BI logo"/> **Power BI**    
 
 ### **Data Warehouses**  
 - <img src="https://img.icons8.com/color/48/snowflake.png" width="20"/> **Snowflake**  
