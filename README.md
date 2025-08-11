@@ -43,7 +43,6 @@
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" width="20" alt="Microsoft Power BI logo"/> **Power BI**    
 
 ### **Data Warehouses**  
-- <img src="https://img.icons8.com/color/48/snowflake.png" width="20"/> **Snowflake**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google BigQuery**  
 
 ### **Creative Software**  
