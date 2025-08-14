@@ -52,6 +52,6 @@
 - <img src="https://img.icons8.com/color/48/canva.png" width="20"/> **Canva**  
 
 
-## 👨‍💻 Check Out My projects Below!
+## 👨‍💻 Check Out My Projects Below!
         |      |      |
         v      v      v
