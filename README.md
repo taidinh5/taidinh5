@@ -39,10 +39,11 @@
 - <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> **Seaborn**
 
 ### **Spreadsheets/Analytic Tools**  
-- <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**  
+- <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> **Microsoft Excel**
+- <img src="https://img.icons8.com/color/48/000000/power-query.png" width="20"/> **Power Query**
 - <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="20"/> **Google Sheets**  
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="20"/> **Tableau**
-- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" width="20" alt="Microsoft Power BI logo"/> **Power BI**    
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" width="20" alt="Microsoft Power BI logo"/> **Power BI**
 
 ### **Data Warehouses**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google BigQuery**  
