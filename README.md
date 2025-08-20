@@ -34,7 +34,8 @@
 ### **Libraries**  
 - <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" width="20"/> **Tidyverse**  
 - <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/> **Data.table**
-- <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20"/> **Pandas**  
+- <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="20"/> **Pandas**
+- <img src="https://numpy.org/images/logo.svg" width="40"/> **NumPy**    
 - <img src="https://matplotlib.org/_static/images/logo2.svg" width="20"/> **Matplotlib**
 - <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> **Seaborn**
 
