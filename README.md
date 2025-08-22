@@ -18,7 +18,7 @@
 
 ## 📬 Connect With Me!
 
-- 🖼️ **Portfolio:** [https://taidinh5.github.io/taidinh/](https://taidinh5.github.io/taidinh/)
+- 🖼️ **Portfolio:** [here](https://www.taidinh.me)
 - <img src="https://img.icons8.com/color/48/new-post.png" width="20"/> **Email:** [taidinh5@outlook.com](mailto:taidinh5@outlook.com)  
 - <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> **LinkedIn:** [linkedin.com/in/taidinh5](https://www.linkedin.com/in/taidinh5/)
 
